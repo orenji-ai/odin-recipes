@@ -7,13 +7,12 @@ body {
     color: orange;
 }
 
-.button1 {
-    background-color: orange;
+.button1,
+.button2,
+.button3 {
     color: black;
     font-weight: bold;
     font-size: 18px;
 }
 
-.button2 {
-    background-color: ;
-}
+
